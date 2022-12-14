@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="ubuntu20">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/usr/local/lslserver" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="" local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="远程主机 (541b270a-6ca5-48bc-8ac9-6712d1b41eb5)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

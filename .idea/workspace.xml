@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="data_structure" targetName="data_structure" />
+      <config projectName="data_structure" targetName="e6" />
+      <config projectName="data_structure" targetName="2-6" />
+      <config projectName="data_structure" targetName="3-5" />
+      <config projectName="data_structure" targetName="2-5" />
+      <config projectName="data_structure" targetName="3-4" />
+      <config projectName="data_structure" targetName="1-3" />
+      <config projectName="data_structure" targetName="1-2" />
+      <config projectName="data_structure" targetName="SqList" />
+      <config projectName="data_structure" targetName="3-3" />
+      <config projectName="data_structure" targetName="3-2" />
+      <config projectName="data_structure" targetName="e1-1" />
+      <config projectName="data_structure" targetName="e2-1" />
+      <config projectName="data_structure" targetName="e5-1" />
+      <config projectName="data_structure" targetName="e3-2" />
+      <config projectName="data_structure" targetName="e4-1" />
+      <config projectName="data_structure" targetName="Single-LinkedList" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e5079ca-d4c6-4c07-9908-1e771e68c9d6" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Sequence" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/experiment/e5-1.c" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.3" />
+  </component>
+  <component name="ProjectId" id="2GFmFrLBW5oafNPpSyviMIeixSX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultPlantUmlFileTemplate&quot;: &quot;UML Sequence&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Projects/Clion_Projects/data-structure/experiment&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\Clion_Projects\data-structure\experiment" />
+      <recent name="E:\Projects\Clion_Projects\data-structure\search" />
+      <recent name="E:\Projects\Clion_Projects\data-structure\stacks-and-queues" />
+      <recent name="E:\Projects\Clion_Projects\data-structure\introduction" />
+      <recent name="E:\Projects\Clion_Projects\data-structure\stack-and-queue" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\Clion_Projects\data-structure\linear-list" />
+      <recent name="E:\Projects\Clion_Projects\data-structure\experiment" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ 文件.main.c">
+    <configuration name="1-2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="1-2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="1-2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1-3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="1-3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="1-3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2-5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="2-5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="2-5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2-6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="2-6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="2-6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3-2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="3-2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="3-2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3-3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="3-3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="3-3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3-4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="3-4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="3-4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3-5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="3-5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="3-5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Single-LinkedList" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="Single-LinkedList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="Single-LinkedList">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqList" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="SqList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="SqList">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="data_structure" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="data_structure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="data_structure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="e1-1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="e1-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="e1-1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="e2-1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="e2-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="e2-1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="e3-2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="e3-2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="e3-2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="e4-1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="e4-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="e4-1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="e5-1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="e5-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="e5-1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="e6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="e6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="e6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="main.c" CONFIG_NAME="main.c">
+      <option name="sourceFile" value="main.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ 文件.main.c" />
+      <item itemvalue="CMake 应用程序.1-2" />
+      <item itemvalue="CMake 应用程序.1-3" />
+      <item itemvalue="CMake 应用程序.2-5" />
+      <item itemvalue="CMake 应用程序.2-6" />
+      <item itemvalue="CMake 应用程序.3-2" />
+      <item itemvalue="CMake 应用程序.3-3" />
+      <item itemvalue="CMake 应用程序.3-4" />
+      <item itemvalue="CMake 应用程序.3-5" />
+      <item itemvalue="CMake 应用程序.data_structure" />
+      <item itemvalue="CMake 应用程序.e1-1" />
+      <item itemvalue="CMake 应用程序.e2-1" />
+      <item itemvalue="CMake 应用程序.e3-2" />
+      <item itemvalue="CMake 应用程序.e4-1" />
+      <item itemvalue="CMake 应用程序.e5-1" />
+      <item itemvalue="CMake 应用程序.e6" />
+      <item itemvalue="CMake 应用程序.Single-LinkedList" />
+      <item itemvalue="CMake 应用程序.SqList" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ 文件.main.c" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="4e5079ca-d4c6-4c07-9908-1e771e68c9d6" name="变更" comment="" />
+      <created>1665992605427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665992605427</updated>
+      <workItem from="1665992606896" duration="1432000" />
+      <workItem from="1665994058778" duration="130000" />
+      <workItem from="1665994210758" duration="40000" />
+      <workItem from="1665994258715" duration="17102000" />
+      <workItem from="1666020400902" duration="16000" />
+      <workItem from="1666088839883" duration="10570000" />
+      <workItem from="1666429745047" duration="14601000" />
+      <workItem from="1667096857524" duration="21102000" />
+      <workItem from="1667180634192" duration="14081000" />
+      <workItem from="1667211674841" duration="28000" />
+      <workItem from="1667218643889" duration="3000" />
+      <workItem from="1667218673742" duration="22000" />
+      <workItem from="1667383621514" duration="840000" />
+      <workItem from="1667788141298" duration="103000" />
+      <workItem from="1667986309342" duration="2536000" />
+      <workItem from="1668081590301" duration="4699000" />
+      <workItem from="1668323487386" duration="100000" />
+      <workItem from="1668323596387" duration="132000" />
+      <workItem from="1668393337217" duration="16000" />
+      <workItem from="1668393364957" duration="563000" />
+      <workItem from="1668762457235" duration="976000" />
+      <workItem from="1668765726857" duration="8211000" />
+      <workItem from="1668922622993" duration="1140000" />
+      <workItem from="1669037648930" duration="12000" />
+      <workItem from="1669424007951" duration="602000" />
+      <workItem from="1669473488005" duration="63000" />
+      <workItem from="1669593367144" duration="3072000" />
+      <workItem from="1669638806851" duration="3072000" />
+      <workItem from="1669885030566" duration="4000" />
+      <workItem from="1669972654607" duration="24963000" />
+      <workItem from="1670200920607" duration="4582000" />
+      <workItem from="1670684253781" duration="41000" />
+      <workItem from="1670766990592" duration="1305000" />
+      <workItem from="1670803466730" duration="15000" />
+      <workItem from="1670804867192" duration="170000" />
+      <workItem from="1670805065179" duration="166000" />
+      <workItem from="1670805718408" duration="1079000" />
+      <workItem from="1670808760047" duration="587000" />
+      <workItem from="1670809360371" duration="412000" />
+      <workItem from="1670813882418" duration="1633000" />
+      <workItem from="1670829518476" duration="18000" />
+      <workItem from="1670829546495" duration="32000" />
+      <workItem from="1670840360934" duration="287000" />
+      <workItem from="1670840658581" duration="1000" />
+      <workItem from="1670840823427" duration="66000" />
+      <workItem from="1671018973786" duration="4207000" />
+      <workItem from="1671023241906" duration="1000" />
+    </task>
+    <task id="LOCAL-00001" summary="首次提交">
+      <created>1667205726931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667205726931</updated>
+    </task>
+    <task id="LOCAL-00002" summary="首次提交">
+      <created>1667206441149</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667206441149</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update 查找">
+      <created>1668922974634</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668922974634</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update 查找">
+      <created>1668923116528</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668923116528</updated>
+    </task>
+    <task id="LOCAL-00005" summary="尝试修复git推送">
+      <created>1668923310442</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668923310442</updated>
+    </task>
+    <task id="LOCAL-00006" summary="尝试修复git推送">
+      <created>1668923348948</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668923348948</updated>
+    </task>
+    <task id="LOCAL-00007" summary="尝试修复git推送">
+      <created>1668923408018</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668923408018</updated>
+    </task>
+    <task id="LOCAL-00008" summary="更新">
+      <created>1669987565173</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669987565173</updated>
+    </task>
+    <task id="LOCAL-00009" summary="更新实验">
+      <created>1669987599253</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669987599253</updated>
+    </task>
+    <task id="LOCAL-00010" summary="更新实验">
+      <created>1671022013523</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1671022013523</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="首次提交" />
+    <MESSAGE value="添加了四条TODO" />
+    <MESSAGE value="update 查找" />
+    <MESSAGE value="配置文件" />
+    <MESSAGE value="尝试修复git推送" />
+    <MESSAGE value="更新" />
+    <MESSAGE value="更新实验" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新实验" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/stacks-and-queues/3-3.c</url>
+          <line>58</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/experiment/e2-1.c</url>
+          <line>76</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/stacks-and-queues/3-5.c</url>
+          <line>77</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/stacks-and-queues/3-5.c</url>
+          <line>17</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/stacks-and-queues/3-5.c</url>
+          <line>44</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/experiment/e2-1.c</url>
+          <line>78</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,204 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "data_structure",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1-2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-2-Debug-3865fe02e94192c17d9a.json",
+					"name" : "1-2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1-3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-3-Debug-a3e193a0790884bdba63.json",
+					"name" : "1-3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-5-Debug-000e56c6300cbfeaa683.json",
+					"name" : "2-5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-6-Debug-db2a243fcac47c7e13e0.json",
+					"name" : "2-6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-2-Debug-70b2c67ab6c8a6f4dcb4.json",
+					"name" : "3-2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-3-Debug-2526c2ff64c12407155f.json",
+					"name" : "3-3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-4-Debug-5bd7286dc123dde49226.json",
+					"name" : "3-4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-5-Debug-4ecd392d8dd6b083a59c.json",
+					"name" : "3-5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Single-LinkedList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Single-LinkedList-Debug-c64e166408b2bcb16b02.json",
+					"name" : "Single-LinkedList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SqList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SqList-Debug-944e9797543dd9f34784.json",
+					"name" : "SqList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "data_structure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-data_structure-Debug-e96b88217c9084587eac.json",
+					"name" : "data_structure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "e1-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-e1-1-Debug-387c6d8f1019bbacb6d2.json",
+					"name" : "e1-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "e2-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-e2-1-Debug-9bdb7a0e435aed183d2e.json",
+					"name" : "e2-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "e3-2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-e3-2-Debug-3014c5a5e527d6989b4f.json",
+					"name" : "e3-2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "e4-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-e4-1-Debug-c98d940a850e980750ba.json",
+					"name" : "e4-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "e5-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-e5-1-Debug-946fc596dc1fb2e98c42.json",
+					"name" : "e5-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "e6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-e6-Debug-3d2e4da17a9daee2a8f6.json",
+					"name" : "e6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/cygdrive/e/Projects/Clion_Projects/data-structure/cmake-build-debug",
+		"source" : "/cygdrive/e/Projects/Clion_Projects/data-structure"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
